@@ -65,5 +65,10 @@ The system identifies **valuable, loyal, and inactive customers**, helping busin
 
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Techniques:** RFM Analysis, Clustering, EDA  
+- **Techniques:** RFM Analysis, Clustering, EDA
 
+## How to Run 
+- ✅ Unzip the folder 
+- ✅Type cmd on the top of the file explorer
+- ✅Enter
+- ✅Write:->Streamlit run app/app.py
